@@ -12,7 +12,6 @@ A simple academic planning application built with Python and PostgreSQL.
 ## Technologies Used
 - Python
 - PostgreSQL
-- Git
 
 ## How to Run
 1. Create a PostgreSQL database
