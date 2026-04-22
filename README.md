@@ -18,4 +18,6 @@ A simple academic planning application built with Python and PostgreSQL.
 1. Create a PostgreSQL database
 2. Update the database credentials in the code
 3. Run:
-   python academic_planner.py# Academic-Planner
+   ```
+   python academic_planner.py
+   ```
