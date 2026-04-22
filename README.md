@@ -9,14 +9,27 @@ An academic planning application developed with Python and PostgreSQL that enabl
 - Search courses
 - Delete courses
 
-## Technologies Used
-- Python
-- PostgreSQL
+## Technologies 
+-Python
+-PostgreSQL
+-SQL
+-psycopg2
 
 ## How to Run
-1. Create a PostgreSQL database
-2. Update the database credentials in the code
-3. Run:
-   ```
-   python academic_planner.py
-   ```
+1. Clone the repository
+2. Install dependencies:
+```
+pip install -r requirements.txt
+```
+3. Configure your PostgreSQL database connection in `academic_planner.py`
+4. Run the program:
+```
+python academic_planner.py
+```
+
+## Requirements
+- Python 3.x
+- PostgreSQL
+
+## Author
+Dario Zonobian J-Ahmadi
