@@ -1,6 +1,6 @@
-# Student Course Planner
+# Academic Planner
 
-A simple academic planning application built with Python and PostgreSQL.
+An academic planning application developed with Python and PostgreSQL that enables students to efficiently organize courses and manage structured semester schedules.
 
 ## Features
 - Add courses
